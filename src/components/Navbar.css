@@ -1,0 +1,28 @@
+ul {
+    list-Style-Type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(17, 30, 87);
+    position: fixed;
+    top: 0;
+    height: 7vh;
+    width: 100%;
+    
+}
+
+li {
+    float: left;
+    height: 7vh;
+    position: relative;
+    left: 5vw;
+}
+
+.link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+

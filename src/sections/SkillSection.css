@@ -1,0 +1,14 @@
+.cards-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 3rem;
+  }
+
+  .third {
+    background-color: #c0c0c0;
+  }

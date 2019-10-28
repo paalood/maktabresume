@@ -1,0 +1,57 @@
+{
+    
+    "title": "Hello I'm Marjan",
+    "subtitle": "Painter | Graphic Designer | Blogger",
+    "links": {
+        "github": "https://github.com/HamidZangene",
+        "twitter": "https://twitter.com/HamidZangene?s=09",
+        "linkedin": "https://www.linkedin.com/in/hamid-zangene-22788673"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "I have created a few JavaScript and React libraries (180k+ npm downloads)."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/javascript.png",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.png",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "CSS"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/down1.png"
+    }
+}
